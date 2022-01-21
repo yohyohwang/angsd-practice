@@ -1,6 +1,6 @@
 ---
-title: 'Week 1: Practice Exercise'
-author: "Mervin Fansler"
+title: 'Exercise: Git, GitHub, and RStudio'
+author: "Yohyoh Wang"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document:
